@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Albin.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=albinario&show_icons=true&theme=dark)
 
